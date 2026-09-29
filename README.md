@@ -179,7 +179,7 @@ Provision a free MySQL instance (Aiven / Railway / Clever Cloud), import the dum
 
 ---
 
-## 🏆 Resume Bullet Points
+## 🏆 IN SHORT
 
 - Designed a **data warehouse star schema** (5 dims + 3 fact tables, SCD Type 2) fed by a
   Python ETL pipeline processing **46,000+ records** end-to-end in ~9 seconds.
